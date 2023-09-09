@@ -1,16 +1,38 @@
 # namer_app
+Repo for a Flutter app that makes interesting compound words.
 
-A new Flutter project.
+namer_app
+This app generates compound words from two words.
 
-## Getting Started
+Features
+The app can generate compound words with any two words.
+The app can generate compound words with a variety of meanings.
 
-This project is a starting point for a Flutter application.
+Target Audience
+This app is for anyone who wants to generate compound words. 
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites
+You need to have Flutter installed on your computer.
+You need to have a text editor or IDE that supports Flutter development.
+Installation
+Clone the repository to your computer.
+Open the project in your text editor or IDE.
+Run the following command to install the dependencies:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the app by running the following command:
+
+flutter run
+
+Usage
+To generate a compound word,simply click the "Next" button. The app will generate a different compound word each time.
+
+Contributing
+If you find any bugs or have any suggestions for improvement, please open an issue or submit a pull request.
+
+Reporting Bugs
+To report a bug, please open an issue in the GitHub repository. Please include as much information as possible about the bug, including the steps to reproduce it.
+
+License
+This app is licensed under the MIT License
